@@ -23,6 +23,13 @@
     Cost - The target variable
 
 ```
-# dataset link
+## 1 data preprossing 
+### 1.1 rename features 
+### 1.2 convert data type from string to integer 
+## 2 feature engineering
+### 2.1 extract features like  order type , department , brand , Store_Kind , Additional_Features_in_market ( if the market has Coffee Bar , florist , ready_food ,Bar_Fors_salad ,video_store )  
+ 
+
+# dataset and problem description link:
 https://www.kaggle.com/competitions/ieee-mansb-victoris-2/data
 
