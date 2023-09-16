@@ -23,3 +23,6 @@
     Cost - The target variable
 
 ```
+# dataset link
+https://www.kaggle.com/competitions/ieee-mansb-victoris-2/data
+
