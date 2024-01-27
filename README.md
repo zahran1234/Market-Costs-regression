@@ -23,11 +23,16 @@
     Cost - The target variable
 
 ```
-## 1 data preprossing 
-### 1.1 rename features 
-### 1.2 convert data type from string to integer 
-## 2 feature engineering
-### 2.1 extract features like  order type , department , brand , Store_Kind , Additional_Features_in_market ( if the market has Coffee Bar , florist , ready_food ,Bar_Fors_salad ,video_store )  
+# Data Preprocessing and Feature Engineering Guide
+
+
+## 1. Data Preprocessing
+Data preprocessing involves preparing raw data for further analysis and modeling. It includes cleaning and transforming data to improve its quality and usefulness.
+
+### 1.1 Rename Features
+- **Objective**: Improve readability and consistency in the dataset by renaming feature columns.
+- **Rationale**: Clear and descriptive column names make the dataset easier to understand and work with.
+- **Methodology**: Use the `rename` function in Pandas to modify column names. 
  
 
 # dataset and problem description link:
